@@ -7,6 +7,6 @@ sdfdasfasfaslfasjf;asj;fjasasfa dasfdas fasfdasdf asdsf asfd da
 x
 iuf
 
-修复bug 550
+修复bug 550  合并啊了
 
 bug8807分支的  修复bug哈哈哈哈哈哈哈哈哈哈哈
